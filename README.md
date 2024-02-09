@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Cristhian Canon </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Machine Learning  | Data Scientist </h3>
 
 
 
@@ -8,8 +8,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Cristhian Canon, Colombian, majoring Computer Science<b> undergraduate</b> from <a href="https://www.uef.fi/en"> <b>University Of Estern Finland</b></a>. <br>
-    <b>a passionate self-learner</b> of Machine learning and Front-end technologies&nbsp.
+    Hello, I am Cristhian Canon, Colombian, majoring Computer Science <b>fresher undergraduate</b> from <a href="https://www.uef.fi/en"> <b>University Of Estern Finland</b></a>. <br>
+    <b>Passionate self-learner</b> of Machine learning and Front-end technologies&nbsp.
     <br>Recently graduated from <a href="https://mcast.edu.mt"> <b> The Malta College of Arts, Science and Technology, Malta</b></a> with Advanced Diploma in IT (Software Development) .
 
   </em> 
@@ -19,24 +19,30 @@
 
 ✔ I’m currently developing small projects using React framework<br>
 ✔ I’m currently learning about  practical **Machine learning** in java using cloud services<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m looking to collaborate with any **Open - Source data science, machine learning projects**<br>
 
  ## Technologies 🧑‍💻
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,py,raspberrypi,react,ts,cs,git,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,php,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,md" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,visualstudio" /><br>
   </a>
 </p> 
 <br>
 
+
+ ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=React)](https://github.com/CrisCanonDev/React)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=Java)](https://github.com/CrisCanonDev/Java  )
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=DataAnalysis)](https://github.com/CrisCanonDev/DataAnalysis)
 
  ## Anoter GitHub Account
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=pets_booking)](https://github.com/CirsthianC21/pets_booking)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=medical_app)](https://github.com/CirsthianC21/medical_app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=IrrigationSystem)](https://github.com/CirsthianC21/IrrigationSystem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=pets_booking)](https://github.com/CristhianC21/pets_booking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=medical_app)](https://github.com/CristhianC21/medical_app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=IrrigationSystem)](https://github.com/CristhianC21/IrrigationSystem)
 
 ## Connect with me 🤝 
 <p align="center">
