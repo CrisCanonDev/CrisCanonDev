@@ -40,7 +40,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=DataAnalysis)](https://github.com/CrisCanonDev/DataAnalysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=Google-Reviews-Analyzer)](https://github.com/CrisCanonDev/Google-Reviews-Analyzer)
 
- ## Anoter GitHub Account
+ ##
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=pets_booking)](https://github.com/CristhianC21/pets_booking)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=medical_app)](https://github.com/CristhianC21/medical_app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CristhianC21&repo=IrrigationSystem)](https://github.com/CristhianC21/IrrigationSystem)
