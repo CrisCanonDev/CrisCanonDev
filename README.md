@@ -9,7 +9,7 @@
 <p align="center">
   <em>
     Hello, I am Cristhian Canon, Colombian, majoring Computer Science <b>fresher undergraduate</b> from <a href="https://www.uef.fi/en"> <b>University Of Estern Finland</b></a>. <br>
-    <b>Passionate self-learner</b> of Machine learning and Front-end technologies&nbsp.
+    <b>Passionate self-learner</b> of web developing applications and microservices witj java Spring, and Front-end frameworks&nbsp.
     <br>Recently graduated from <a href="https://mcast.edu.mt"> <b> The Malta College of Arts, Science and Technology, Malta</b></a> with Advanced Diploma in IT (Software Development) .
 
   </em> 
