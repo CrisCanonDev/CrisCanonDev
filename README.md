@@ -9,7 +9,7 @@
 <p align="center">
   <em>
     Hello, I am Cristhian Canon, Colombian, majoring Computer Science <b>fresher undergraduate</b> from <a href="https://www.uef.fi/en"> <b>University Of Estern Finland</b></a>. <br>
-    <b>Passionate self-learner</b> of web developing applications and microservices witj java Spring, and Front-end frameworks&nbsp.
+    <b>Passionate self-learner</b> of Java, web developing applications and microservices with java Spring, and Front-end frameworks&nbsp.
     <br>Recently graduated from <a href="https://mcast.edu.mt"> <b> The Malta College of Arts, Science and Technology, Malta</b></a> with Advanced Diploma in IT (Software Development) .
 
   </em> 
@@ -17,15 +17,16 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;***About me ....***
 
-✔ I’m currently developing small projects using React framework<br>
+✔ I’m currently developing small projects using SpringBoot using tymeleaf as template engines<br>
 ✔ I’m currently learning about  practical **Machine learning** in java using cloud services<br>
-✔ I’m looking to collaborate with any **Open - Source data science, machine learning projects**<br>
+✔ I’m looking to collaborate with any **Open - Source data science, machine learning, microservices projects**<br>
 
  ## Technologies 🧑‍💻
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,php,ts" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,php" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,md" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,visualstudio" /><br>
@@ -35,9 +36,9 @@
 
 
  ## Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=SpringBoot-application )](https://github.com/CrisCanonDev/SpringBoot-application ) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=React)](https://github.com/CrisCanonDev/React)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=Java)](https://github.com/CrisCanonDev/Java  )
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=DataAnalysis)](https://github.com/CrisCanonDev/DataAnalysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=Google-Reviews-Analyzer)](https://github.com/CrisCanonDev/Google-Reviews-Analyzer)
 
  ##
