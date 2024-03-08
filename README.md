@@ -36,9 +36,9 @@
 
 
  ## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=SpringBoot-application )](https://github.com/CrisCanonDev/SpringBoot-application ) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=course-management-springboot )](https://github.com/CrisCanonDev/course-management-springboot) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=React)](https://github.com/CrisCanonDev/React)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=Java)](https://github.com/CrisCanonDev/Java  )
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=Java)](https://github.com/CrisCanonDev/Java)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrisCanonDev&repo=Google-Reviews-Analyzer)](https://github.com/CrisCanonDev/Google-Reviews-Analyzer)
 
  ##
