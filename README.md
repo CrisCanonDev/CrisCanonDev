@@ -8,8 +8,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Cristhian Canon, Colombian, majoring Computer Science <b>fresher undergraduate</b> from <a href="https://www.uef.fi/en"> <b>University Of Estern Finland</b></a>. <br>
-    <b>Passionate self-learner</b> of Java, web developing applications and microservices with java Spring, and Front-end frameworks&nbsp.
+    Hello, I am Cristhian Canon, Colombian, majoring Computer Science <b>undergraduate student</b> from <a href="https://www.uef.fi/en"> <b>University of Estern Finland</b></a>. <br>
+    <b>Passionate self-learner</b> of Java, web developing applications and microservices with java Spring , and Front-end frameworks&nbsp.
     <br>Recently graduated from <a href="https://mcast.edu.mt"> <b> The Malta College of Arts, Science and Technology, Malta</b></a> with Advanced Diploma in IT (Software Development) .
 
   </em> 
@@ -17,9 +17,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;***About me ....***
 
-✔ I’m currently developing small projects using SpringBoot using tymeleaf as template engines<br>
-✔ I’m currently learning about  practical **Machine learning** in java using cloud services<br>
-✔ I’m looking to collaborate with any **Open - Source data science, machine learning, microservices projects**<br>
+✔ I’m currently developing small projects using Spring, SpringBoot, Spring Security.<br>
+✔ I’m currently learning Spring frameworks such as spring data JPA, spring security to enhance Spring/SpringBoot knowledge and develop more integral web services/applucation.<br>
+✔ I’m looking to collaborate with any **Open - Source data science, Java, web design, and microservices projects**<br>
 
  ## Technologies 🧑‍💻
  <p align="left">
